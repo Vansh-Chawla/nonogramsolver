@@ -1,0 +1,130 @@
+{
+  "grid": [
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"}
+    ]
+  ],
+  "name": "Horse",
+  "states": {
+    "COLOUR_1": "#000000",
+    "UNKNOWN": "#ECECEC",
+    "EMPTY": "#FFFFFF"
+  }
+}

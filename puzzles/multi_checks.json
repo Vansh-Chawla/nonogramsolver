@@ -1,0 +1,16 @@
+{ "name": "Multi-solution checks",
+    "rows": [ [{ "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }]
+        ],
+    "columns": [ [{ "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }]
+    ]
+}

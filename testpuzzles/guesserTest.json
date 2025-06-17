@@ -1,0 +1,16 @@
+{ "name": "Test Puzzle",
+    "states": {
+        "UNKNOWN": "#ECECEC",
+        "EMPTY": "#FFFFFF",
+        "COLOUR_1": "#FF0000"
+
+    },
+    "rows": [
+            [{ "count": 1, "color": "COLOUR_1" }],
+            [{ "count": 1, "color": "COLOUR_1" }]
+        ],
+    "columns": [
+            [{ "count": 1, "color": "COLOUR_1" }],
+            [{ "count": 1, "color": "COLOUR_1" }]
+        ]
+}

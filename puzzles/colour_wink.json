@@ -1,0 +1,23 @@
+{"name": "Wink",
+    "states": {"UNKNOWN": "#ECECEC", "EMPTY": "#FFFFFF", "COLOUR_1": "#000000", "COLOUR_2": "#E6B800"},
+    "rows":[ [{ "count": 5, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 6, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 3, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"}],
+            [{ "count": 9, "color": "COLOUR_2"}],
+            [{ "count": 9, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 3, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 3, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"}],
+            [{ "count": 5, "color":"COLOUR_2"}]
+        ],
+    "columns": [ [{ "count": 5, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 2, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 3, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 2, "color": "COLOUR_2"}],
+            [{ "count": 7, "color": "COLOUR_2"}],
+            [{ "count": 5, "color": "COLOUR_2"}]
+        ]
+}

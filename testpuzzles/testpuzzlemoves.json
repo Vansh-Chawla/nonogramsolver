@@ -1,0 +1,18 @@
+{
+  "grid": [
+    [
+      {"state": "COLOUR_2"},
+      {"state": "COLOUR_1"}
+    ],
+    [
+      {"state": "UNKNOWN"},
+      {"state": "COLOUR_1"}
+    ]
+  ],
+  "name": "Test Puzzle",
+  "states": {
+    "COLOUR_1": "#000000",
+    "UNKNOWN": "#ECECEC",
+    "EMPTY": "#FFFFFF"
+  }
+}

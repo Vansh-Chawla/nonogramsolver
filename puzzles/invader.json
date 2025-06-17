@@ -1,0 +1,23 @@
+{ "name": "Invader",
+    "rows": [ [{ "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }], 
+            [ { "count": 7 } ],
+            [ { "count": 2 }, { "count": 3 }, { "count": 2 } ],
+            [ { "count": 11 } ],
+            [ { "count": 1 }, { "count":7 }, { "count":1 }], 
+            [ { "count": 1 }, { "count":1 }, { "count":1 }, { "count":1 }],
+            [ { "count": 2 }, { "count":2 }]
+    ],
+    "columns": [ [{ "count": 3 }],
+            [ { "count": 2 }],
+            [ { "count": 1 }, { "count":5 }], 
+            [ { "count": 2 }, { "count": 2 }, { "count": 1 }], 
+            [ { "count": 4 }, { "count": 1 }], 
+            [ { "count": 4 }], 
+            [ { "count": 4 }, { "count": 1 }],
+            [ { "count": 2 }, { "count": 2 }, { "count": 1 }],  
+            [ { "count": 1 }, { "count":5 }],
+            [ { "count": 2 }],
+            [ { "count": 3 }]
+    ]
+}
