@@ -1,0 +1,24 @@
+{ "name": "Filled Puzzle",
+    "rows": [ [{ "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }]
+        ],
+    "columns": [ [{ "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }], 
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }],
+            [ { "count":10 }]
+        ]
+}

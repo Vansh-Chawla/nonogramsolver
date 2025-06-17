@@ -1,0 +1,29 @@
+{"name": "Playtpus",
+    "states": {"UNKNOWN": "#ECECEC", "EMPTY": "#FFFFFF", "COLOUR_1": "#FF0000", "COLOUR_2": "#FFA500", "COLOUR_3": "#00FFFF", "COLOUR_4": "000000"},
+    "rows":[ [{ "count": 8, "color": "COLOUR_3"}],
+            [{ "count": 10, "color": "COLOUR_3"}],
+            [{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"}, { "count": 7, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_4"}, { "count": 1, "color": "COLOUR_3"} ],
+            [{ "count": 1, "color": "COLOUR_2"}, { "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"}, { "count": 7, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_4"}, { "count": 1, "color": "COLOUR_3"} ],
+            [{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"}, { "count": 1, "color": "COLOUR_2"}, { "count": 9, "color": "COLOUR_3"}, { "count": 3, "color": "COLOUR_2"}],
+            [{ "count": 1, "color": "COLOUR_3"},{ "count": 1, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_3"}],
+            [{ "count": 2, "color": "COLOUR_2"},{ "count": 2, "color": "COLOUR_1"}, { "count": 2, "color": "COLOUR_2"}, { "count": 2, "color": "COLOUR_1"}]
+        ],
+
+    "columns": [ [{ "count": 1, "color": "COLOUR_1"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 1, "color": "COLOUR_1"},{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"}],
+            [{ "count": 1, "color": "COLOUR_1"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 4, "color": "COLOUR_3"}],
+            [{ "count": 6, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 5, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 6, "color": "COLOUR_3"},{ "count": 1, "color": "COLOUR_1"}],
+            [{ "count": 5, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_1"}],
+            [{ "count": 5, "color": "COLOUR_3"}],
+            [{ "count": 6, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_3"},{ "count": 2, "color": "COLOUR_4"},{ "count": 1, "color": "COLOUR_3"}, { "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 2, "color": "COLOUR_3"},{ "count": 2, "color": "COLOUR_3"},{ "count": 1, "color": "COLOUR_1"}],
+            [{ "count": 3, "color": "COLOUR_3"},{ "count": 1, "color": "COLOUR_2"},{ "count": 1, "color": "COLOUR_1"}],
+            [{ "count": 1, "color": "COLOUR_2"}],
+            [{ "count": 1, "color": "COLOUR_2"}]
+        ]
+}

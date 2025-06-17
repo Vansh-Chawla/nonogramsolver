@@ -1,0 +1,9 @@
+{ "name": "Rowless Puzzle",
+    "columns": [ [{ "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }], 
+            [ { "count": 1 }, { "count": 1 }, { "count": 1 }]
+    ]
+}
